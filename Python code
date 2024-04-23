@@ -1,3 +1,4 @@
 使用keras_vgg2D訓練模型進行物件辨識
 再使用keras_vgg3D_Regression訓練模型進行汙染辨識
-將訓練好的Onnx模型替換至HSEnvPredict - 1.0.0.2中(路徑:C:\Users\jjway\Desktop\one predict\SW\HSEnvPredict - 1.0.0.2\HSEnvPredict\bin\x64\Debug\HSEnvPredict)，即可進行汙染分析
+空汙模型連結:https://drive.google.com/file/d/1FNAEhc6reF1OSrnSdmFjeUZM4d0Mf1Nm/view?usp=drive_link
+水汙模型連結:https://drive.google.com/file/d/1F2NmeVn45yZZGDNwiwB_WvUeEOam8DCm/view?usp=drive_linK
